@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./iohannisvahleni01vahlgoog/iohannisvahleni01vahlgoog_0236.png"; bbox 0 0 3925 6675; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 1942 4679 2385 4777">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 1942 4664 2385 4777">
+     <span class='ocr_line' id='line_1_1' title="bbox 1942 4679 2333 4740; baseline 0 -33"><span class='ocrx_word' id='word_1_1' title='bbox 1942 4686 2002 4707; x_wconf 52' lang='lat' dir='ltr'>w.</span> <span class='ocrx_word' id='word_1_2' title='bbox 2041 4686 2073 4732; x_wconf 28' lang='grc' dir='ltr'>’ν</span> <span class='ocrx_word' id='word_1_3' title='bbox 2155 4679 2333 4740; x_wconf 52' lang='lat' dir='ltr'>&#39;f&#39;</span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 2148 4736 2385 4777; baseline -0.004 -10"><span class='ocrx_word' id='word_1_4' title='bbox 2148 4752 2162 4760; x_wconf 58' lang='grc' dir='ltr'><em>ε</em></span> <span class='ocrx_word' id='word_1_5' title='bbox 2181 4743 2204 4764; x_wconf 59' lang='lat'>22</span> <span class='ocrx_word' id='word_1_6' title='bbox 2230 4736 2291 4767; x_wconf 42' lang='grc' dir='ltr'>ἐπ’*</span> <span class='ocrx_word' id='word_1_7' title='bbox 2312 4744 2385 4777; x_wconf 52' lang='lat'>*³7¹</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 1970 4732 2452 4827">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 1970 4732 2452 4827">
+     <span class='ocr_line' id='line_1_3' title="bbox 1970 4732 2109 4767; baseline 0.014 -2"><span class='ocrx_word' id='word_1_8' title='bbox 1970 4732 2078 4767; x_wconf 42' lang='lat' dir='ltr'>‘&#39;aab&#39;&#39;</span> <span class='ocrx_word' id='word_1_9' title='bbox 2090 4732 2109 4758; x_wconf 44' lang='lat'>4-</span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 1975 4767 2452 4827; baseline 0.002 -16"><span class='ocrx_word' id='word_1_10' title='bbox 1975 4767 2123 4827; x_wconf 45' lang='grc' dir='ltr'>’ζπζ</span> <span class='ocrx_word' id='word_1_11' title='bbox 2140 4781 2209 4815; x_wconf 47' lang='grc'>(5·</span> <span class='ocrx_word' id='word_1_12' title='bbox 2241 4773 2365 4812; x_wconf 45' lang='lat' dir='ltr'>fflm‘·</span> <span class='ocrx_word' id='word_1_13' title='bbox 2377 4791 2390 4807; x_wconf 65' lang='grc' dir='ltr'>ἲ</span> <span class='ocrx_word' id='word_1_14' title='bbox 2405 4781 2421 4796; x_wconf 58' lang='grc'>’”</span> <span class='ocrx_word' id='word_1_15' title='bbox 2446 4799 2452 4804; x_wconf 84' lang='grc'><em>·</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 1994 4838 2082 4861">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 1994 4838 2082 4861">
+     <span class='ocr_line' id='line_1_5' title="bbox 1994 4838 2082 4861; baseline 0 -7"><span class='ocrx_word' id='word_1_16' title='bbox 1994 4838 2082 4861; x_wconf 55' lang='grc' dir='ltr'>ιῐ-,</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 0 0 3924 6675">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 0 0 3924 6675">
+     <span class='ocr_line' id='line_1_6' title="bbox 0 0 3924 6675; baseline 0 0"><span class='ocrx_word' id='word_1_17' title='bbox 0 0 3924 6675; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
